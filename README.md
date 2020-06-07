@@ -1,4 +1,4 @@
-#INVENIRE
+# INVENIRE
 
 Este sistema fue hecho con netBeans
 
@@ -14,4 +14,4 @@ El módulo de ventas cuenta con
     * Se agrega un producto incluyendo categorías, fecha de caducidad y cantidad
     * Registrar ventas para quitar existencias
     * Filtrado de productos con una barra de búsqueda
-    * **Opción para exportar todos los productos en stock a EXCEL **
+    * ** Opción para exportar todos los productos en stock a EXCEL **
